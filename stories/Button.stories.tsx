@@ -1,7 +1,6 @@
 import React from 'react';
 import { action } from '@storybook/addon-actions';
 
-import { VStack } from '../src/components/Stack';
 import Button from '../src/components/Button';
 
 const metadata = {

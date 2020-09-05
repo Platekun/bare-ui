@@ -1,7 +1,6 @@
 import React from 'react';
 import styled, { css } from 'styled-components';
 import { PropsFor, breakpoints, compose, flexbox, sizing } from '@material-ui/system';
-import Box, { BoxProps } from '@material-ui/core/Box';
 
 import { IWithOrientation, IWithResponsiveOrientation, HORIZONTAL, VERTICAL } from '../../common/orientation';
 import { IStylable } from '../../common/styles';
@@ -23,7 +22,7 @@ export type IStackProps = IFlexboxAndSizingProps &
     /**
      * Component to be rendered.
      */
-    as?: BoxProps['component'];
+    as?: React.ElementType;
   };
 
 const stackCSS = css<IStackCSSProps>`
@@ -45,7 +44,7 @@ export function orientationTransform(props: ITransformResponsiveProps<IStackProp
   return `flex-direction: ${flexDirection};`;
 }
 
-const StackBox = styled(Box)<IStackProps>`
+const StackBox = styled.div<IStackProps>`
   ${stackCSS}
 
   ${(props: IStackProps) =>

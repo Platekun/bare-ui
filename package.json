@@ -17,7 +17,8 @@
     "lint": "tsdx lint",
     "prepare": "tsdx build",
     "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook"
+    "build-storybook": "build-storybook",
+    "deploy-storybook": "storybook-to-ghpages"
   },
   "peerDependencies": {
     "react": ">=16"
@@ -36,7 +37,7 @@
   "name": "bare-ui",
   "description": "A set of React primitives with some sane design defaults. You may use these components a base for your abstractions.",
   "author": "Carlos Camilo Lobo Ulloque",
-  "module": "dist/react-basic.esm.js",
+  "module": "dist/bare-ui.esm.js",
   "devDependencies": {
     "@babel/core": "^7.11.1",
     "@react-types/shared": "^3.2.0",
@@ -44,8 +45,11 @@
     "@storybook/addon-docs": "^6.0.10",
     "@storybook/addon-info": "^5.3.19",
     "@storybook/addon-links": "^6.0.10",
+    "@storybook/addon-storyshots": "^6.0.21",
+    "@storybook/addon-storysource": "^6.0.21",
     "@storybook/addons": "^6.0.10",
     "@storybook/react": "^6.0.10",
+    "@storybook/storybook-deployer": "^2.8.6",
     "@types/react": "^16.9.46",
     "@types/react-dom": "^16.9.8",
     "@types/react-virtualized-auto-sizer": "^1.0.0",
@@ -57,6 +61,7 @@
     "react-docgen-typescript-loader": "^3.7.2",
     "react-dom": "^16.13.1",
     "react-is": "^16.13.1",
+    "react-test-renderer": "^16.13.1",
     "ts-loader": "^8.0.2",
     "tsdx": "^0.13.2",
     "tslib": "^2.0.1",

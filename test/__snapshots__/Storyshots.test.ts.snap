@@ -1,0 +1,4519 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Button Button With Hint 1`] = `
+<div
+  style={
+    Object {
+      "display": "grid",
+      "gap": 16,
+      "maxWidth": 100,
+    }
+  }
+>
+  <button
+    className="sc-AxirZ iGwzdG"
+    color="primary"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    title="This should do something special!"
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Storyshots Button Contained 1`] = `
+<div
+  style={
+    Object {
+      "display": "grid",
+      "gap": 16,
+      "maxWidth": 100,
+    }
+  }
+>
+  <button
+    className="sc-AxirZ iGwzdG"
+    color="primary"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ kKwpxj"
+    color="secondary"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ UXjlp"
+    color="success"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ hdgITG"
+    color="information"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ fEgwlk"
+    color="error"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Storyshots Button Contained Disabled 1`] = `
+<div
+  style={
+    Object {
+      "display": "grid",
+      "gap": 16,
+      "maxWidth": 100,
+    }
+  }
+>
+  <button
+    className="sc-AxirZ iGwzdG"
+    color="primary"
+    disabled={true}
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ kKwpxj"
+    color="secondary"
+    disabled={true}
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ UXjlp"
+    color="success"
+    disabled={true}
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ hdgITG"
+    color="information"
+    disabled={true}
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ fEgwlk"
+    color="error"
+    disabled={true}
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Storyshots Button Contained Ghost When Hovered 1`] = `
+<div
+  style={
+    Object {
+      "display": "grid",
+      "gap": 16,
+      "maxWidth": 100,
+    }
+  }
+>
+  <button
+    className="sc-AxirZ eERWFo"
+    color="primary"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ jvGAYR"
+    color="secondary"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ cWyaJX"
+    color="success"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ kPEHwQ"
+    color="information"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ jLvVuW"
+    color="error"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Storyshots Button Contained Ghost When Pressed 1`] = `
+<div
+  style={
+    Object {
+      "display": "grid",
+      "gap": 16,
+      "maxWidth": 100,
+    }
+  }
+>
+  <button
+    className="sc-AxirZ dlOtnj"
+    color="primary"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ eXQvuu"
+    color="secondary"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ kfLtE"
+    color="success"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ dRenPr"
+    color="information"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ gUTYcV"
+    color="error"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Storyshots Button Contained Text When Hovered 1`] = `
+<div
+  style={
+    Object {
+      "display": "grid",
+      "gap": 16,
+      "maxWidth": 100,
+    }
+  }
+>
+  <button
+    className="sc-AxirZ gEBaQO"
+    color="primary"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ bgaBfL"
+    color="secondary"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ bOHapB"
+    color="success"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ chlseO"
+    color="information"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ cvtrsI"
+    color="error"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Storyshots Button Contained Text When Pressed 1`] = `
+<div
+  style={
+    Object {
+      "display": "grid",
+      "gap": 16,
+      "maxWidth": 100,
+    }
+  }
+>
+  <button
+    className="sc-AxirZ eFGSkV"
+    color="primary"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ ccZVKE"
+    color="secondary"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ hFrrGq"
+    color="success"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ bqXsiF"
+    color="information"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ hOxcFX"
+    color="error"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Storyshots Button Ghost 1`] = `
+<div
+  style={
+    Object {
+      "display": "grid",
+      "gap": 16,
+      "maxWidth": 100,
+    }
+  }
+>
+  <button
+    className="sc-AxirZ djDeFr"
+    color="primary"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ eVFgMC"
+    color="secondary"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ hUwLM"
+    color="success"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ dOSZhz"
+    color="information"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ gSIJvd"
+    color="error"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Storyshots Button Ghost Contained When Hovered 1`] = `
+<div
+  style={
+    Object {
+      "display": "grid",
+      "gap": 16,
+      "maxWidth": 100,
+    }
+  }
+>
+  <button
+    className="sc-AxirZ iPHIYd"
+    color="primary"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ eorznU"
+    color="secondary"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ iJTCqC"
+    color="success"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ hyRkhx"
+    color="information"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ fOxgXn"
+    color="error"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Storyshots Button Ghost Contained When Pressed 1`] = `
+<div
+  style={
+    Object {
+      "display": "grid",
+      "gap": 16,
+      "maxWidth": 100,
+    }
+  }
+>
+  <button
+    className="sc-AxirZ jAYqgu"
+    color="primary"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ pCxbb"
+    color="secondary"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ bPzaod"
+    color="success"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ hXIzWu"
+    color="information"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ gyInnY"
+    color="error"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Storyshots Button Ghost Disabled 1`] = `
+<div
+  style={
+    Object {
+      "display": "grid",
+      "gap": 16,
+      "maxWidth": 100,
+    }
+  }
+>
+  <button
+    className="sc-AxirZ djDeFr"
+    color="primary"
+    disabled={true}
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ eVFgMC"
+    color="secondary"
+    disabled={true}
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ hUwLM"
+    color="success"
+    disabled={true}
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ dOSZhz"
+    color="information"
+    disabled={true}
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ gSIJvd"
+    color="error"
+    disabled={true}
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Storyshots Button Ghost Text When Hovered 1`] = `
+<div
+  style={
+    Object {
+      "display": "grid",
+      "gap": 16,
+      "maxWidth": 100,
+    }
+  }
+>
+  <button
+    className="sc-AxirZ bplQNR"
+    color="primary"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ kca-DMw"
+    color="secondary"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ eoWqjm"
+    color="success"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ jpYakx"
+    color="information"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ eycbiT"
+    color="error"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Storyshots Button Ghost Text When Pressed 1`] = `
+<div
+  style={
+    Object {
+      "display": "grid",
+      "gap": 16,
+      "maxWidth": 100,
+    }
+  }
+>
+  <button
+    className="sc-AxirZ jMNZSx"
+    color="primary"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ hkhdsg"
+    color="secondary"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ bxcPOW"
+    color="success"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ gyezQh"
+    color="information"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ bGiAOD"
+    color="error"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Storyshots Button Text 1`] = `
+<div
+  style={
+    Object {
+      "display": "grid",
+      "gap": 16,
+      "maxWidth": 100,
+    }
+  }
+>
+  <button
+    className="sc-AxirZ gAIkNB"
+    color="primary"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ gVVKnQ"
+    color="secondary"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ fmdEGq"
+    color="success"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ dMGGYN"
+    color="information"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ bODisL"
+    color="error"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Storyshots Button Text Contained When Hovered 1`] = `
+<div
+  style={
+    Object {
+      "display": "grid",
+      "gap": 16,
+      "maxWidth": 100,
+    }
+  }
+>
+  <button
+    className="sc-AxirZ ehMjUZ"
+    color="primary"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ eOGSys"
+    color="secondary"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ hYNYIe"
+    color="success"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ gcFBmt"
+    color="information"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ dGUXGH"
+    color="error"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Storyshots Button Text Contained When Pressed 1`] = `
+<div
+  style={
+    Object {
+      "display": "grid",
+      "gap": 16,
+      "maxWidth": 100,
+    }
+  }
+>
+  <button
+    className="sc-AxirZ dILhVa"
+    color="primary"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ fsfiMD"
+    color="secondary"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ hSQPGB"
+    color="success"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ ezbYCe"
+    color="information"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ ehoMFQ"
+    color="error"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Storyshots Button Text Disabled 1`] = `
+<div
+  style={
+    Object {
+      "display": "grid",
+      "gap": 16,
+      "maxWidth": 100,
+    }
+  }
+>
+  <button
+    className="sc-AxirZ gAIkNB"
+    color="primary"
+    disabled={true}
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ gVVKnQ"
+    color="secondary"
+    disabled={true}
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ fmdEGq"
+    color="success"
+    disabled={true}
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ dMGGYN"
+    color="information"
+    disabled={true}
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ bODisL"
+    color="error"
+    disabled={true}
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Storyshots Button Text Ghost When Hovered 1`] = `
+<div
+  style={
+    Object {
+      "display": "grid",
+      "gap": 16,
+      "maxWidth": 100,
+    }
+  }
+>
+  <button
+    className="sc-AxirZ exmSYL"
+    color="primary"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ dytsYC"
+    color="secondary"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ khgOA"
+    color="success"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ bgtLRz"
+    color="information"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ kNOyJl"
+    color="error"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Storyshots Button Text Ghost When Pressed 1`] = `
+<div
+  style={
+    Object {
+      "display": "grid",
+      "gap": 16,
+      "maxWidth": 100,
+    }
+  }
+>
+  <button
+    className="sc-AxirZ dnYAyn"
+    color="primary"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ cpfaye"
+    color="secondary"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ kqoxMY"
+    color="success"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ lmBcPX"
+    color="information"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+  <button
+    className="sc-AxirZ jEAgiN"
+    color="error"
+    onClick={[Function]}
+    onKeyDown={[Function]}
+    onKeyUp={[Function]}
+    onMouseDown={[Function]}
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+    onMouseUp={[Function]}
+    onTouchCancel={[Function]}
+    onTouchEnd={[Function]}
+    onTouchMove={[Function]}
+    onTouchStart={[Function]}
+    type="button"
+  >
+    <span
+      className="sc-AxjAm lggGYC"
+      scale="major-second"
+      size={7}
+    >
+      Click me
+    </span>
+  </button>
+</div>
+`;
+
+exports[`Storyshots Divider Basic 1`] = `
+<div>
+  <p>
+    Lorem ipsum
+  </p>
+  <hr
+    className="sc-AxiKw hZfPkV"
+    orientation="horizontal"
+  />
+  <p>
+    Lorem ipsum
+  </p>
+  <hr
+    className="sc-AxiKw hZfPkV"
+    orientation="horizontal"
+  />
+  <p>
+    Lorem ipsum
+  </p>
+</div>
+`;
+
+exports[`Storyshots Divider Horizontal 1`] = `
+<div>
+  <p>
+    Lorem ipsum
+  </p>
+  <hr
+    className="sc-AxiKw hZfPkV"
+    orientation="horizontal"
+  />
+  <p>
+    Lorem ipsum
+  </p>
+  <hr
+    className="sc-AxiKw hZfPkV"
+    orientation="horizontal"
+  />
+  <p>
+    Lorem ipsum
+  </p>
+</div>
+`;
+
+exports[`Storyshots Divider Responsive Orientation 1`] = `
+<div
+  style={
+    Object {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "row",
+      "height": "100px",
+      "justifyContent": "space-between",
+      "maxWidth": 300,
+      "width": "100%",
+    }
+  }
+>
+  <p>
+    Lorem ipsum
+  </p>
+  <hr
+    className="sc-AxiKw oTunD"
+    orientation={
+      Object {
+        "lg": "vertical",
+        "md": "horizontal",
+        "sm": "vertical",
+        "xs": "horizontal",
+      }
+    }
+  />
+  <p>
+    Lorem ipsum
+  </p>
+  <hr
+    className="sc-AxiKw oTunD"
+    orientation={
+      Object {
+        "lg": "vertical",
+        "md": "horizontal",
+        "sm": "vertical",
+        "xs": "horizontal",
+      }
+    }
+  />
+  <p>
+    Lorem ipsum
+  </p>
+</div>
+`;
+
+exports[`Storyshots Divider Vertical 1`] = `
+<div
+  style={
+    Object {
+      "alignItems": "center",
+      "display": "flex",
+      "flexDirection": "row",
+      "height": "100px",
+      "justifyContent": "space-between",
+      "maxWidth": 300,
+      "width": "100%",
+    }
+  }
+>
+  <p>
+    Lorem ipsum
+  </p>
+  <hr
+    className="sc-AxiKw juSJmN"
+    orientation="vertical"
+  />
+  <p>
+    Lorem ipsum
+  </p>
+  <hr
+    className="sc-AxiKw juSJmN"
+    orientation="vertical"
+  />
+  <p>
+    Lorem ipsum
+  </p>
+</div>
+`;
+
+exports[`Storyshots FlatList Basic 1`] = `
+<div
+  className="sc-AxheI imbecd"
+  onScroll={[Function]}
+  style={
+    Object {
+      "WebkitOverflowScrolling": "touch",
+      "direction": "vertical",
+      "height": 500,
+      "overflow": "auto",
+      "position": "relative",
+      "width": "100%",
+      "willChange": "transform",
+    }
+  }
+>
+  <div
+    style={
+      Object {
+        "height": 60000,
+        "pointerEvents": undefined,
+        "width": "100%",
+      }
+    }
+  >
+    <li
+      className="sc-AxhCb McWYO"
+      data-testid={null}
+      orientation="vertical"
+      style={
+        Object {
+          "height": 60,
+          "left": 0,
+          "position": "absolute",
+          "top": 0,
+          "width": "100%",
+        }
+      }
+    >
+      <p>
+        Contact 1
+      </p>
+    </li>
+    <li
+      className="sc-AxhCb McWYO"
+      data-testid={null}
+      orientation="vertical"
+      style={
+        Object {
+          "height": 60,
+          "left": 0,
+          "position": "absolute",
+          "top": 60,
+          "width": "100%",
+        }
+      }
+    >
+      <p>
+        Contact 2
+      </p>
+    </li>
+    <li
+      className="sc-AxhCb McWYO"
+      data-testid={null}
+      orientation="vertical"
+      style={
+        Object {
+          "height": 60,
+          "left": 0,
+          "position": "absolute",
+          "top": 120,
+          "width": "100%",
+        }
+      }
+    >
+      <p>
+        Contact 3
+      </p>
+    </li>
+    <li
+      className="sc-AxhCb McWYO"
+      data-testid={null}
+      orientation="vertical"
+      style={
+        Object {
+          "height": 60,
+          "left": 0,
+          "position": "absolute",
+          "top": 180,
+          "width": "100%",
+        }
+      }
+    >
+      <p>
+        Contact 4
+      </p>
+    </li>
+    <li
+      className="sc-AxhCb McWYO"
+      data-testid={null}
+      orientation="vertical"
+      style={
+        Object {
+          "height": 60,
+          "left": 0,
+          "position": "absolute",
+          "top": 240,
+          "width": "100%",
+        }
+      }
+    >
+      <p>
+        Contact 5
+      </p>
+    </li>
+    <li
+      className="sc-AxhCb McWYO"
+      data-testid={null}
+      orientation="vertical"
+      style={
+        Object {
+          "height": 60,
+          "left": 0,
+          "position": "absolute",
+          "top": 300,
+          "width": "100%",
+        }
+      }
+    >
+      <p>
+        Contact 6
+      </p>
+    </li>
+    <li
+      className="sc-AxhCb McWYO"
+      data-testid={null}
+      orientation="vertical"
+      style={
+        Object {
+          "height": 60,
+          "left": 0,
+          "position": "absolute",
+          "top": 360,
+          "width": "100%",
+        }
+      }
+    >
+      <p>
+        Contact 7
+      </p>
+    </li>
+    <li
+      className="sc-AxhCb McWYO"
+      data-testid={null}
+      orientation="vertical"
+      style={
+        Object {
+          "height": 60,
+          "left": 0,
+          "position": "absolute",
+          "top": 420,
+          "width": "100%",
+        }
+      }
+    >
+      <p>
+        Contact 8
+      </p>
+    </li>
+    <li
+      className="sc-AxhCb McWYO"
+      data-testid={null}
+      orientation="vertical"
+      style={
+        Object {
+          "height": 60,
+          "left": 0,
+          "position": "absolute",
+          "top": 480,
+          "width": "100%",
+        }
+      }
+    >
+      <p>
+        Contact 9
+      </p>
+    </li>
+    <li
+      className="sc-AxhCb McWYO"
+      data-testid={null}
+      orientation="vertical"
+      style={
+        Object {
+          "height": 60,
+          "left": 0,
+          "position": "absolute",
+          "top": 540,
+          "width": "100%",
+        }
+      }
+    >
+      <p>
+        Contact 10
+      </p>
+    </li>
+    <li
+      className="sc-AxhCb McWYO"
+      data-testid={null}
+      orientation="vertical"
+      style={
+        Object {
+          "height": 60,
+          "left": 0,
+          "position": "absolute",
+          "top": 600,
+          "width": "100%",
+        }
+      }
+    >
+      <p>
+        Contact 11
+      </p>
+    </li>
+  </div>
+</div>
+`;
+
+exports[`Storyshots FlatList Horizontal 1`] = `
+<div
+  className="sc-AxheI hGoFPF"
+  onScroll={[Function]}
+  style={
+    Object {
+      "WebkitOverflowScrolling": "touch",
+      "direction": "horizontal",
+      "height": 400,
+      "overflow": "auto",
+      "position": "relative",
+      "width": 500,
+      "willChange": "transform",
+    }
+  }
+>
+  <div
+    style={
+      Object {
+        "height": "100%",
+        "pointerEvents": undefined,
+        "width": 120000,
+      }
+    }
+  >
+    <li
+      className="sc-AxhCb McWYO"
+      data-testid={null}
+      orientation="vertical"
+      style={
+        Object {
+          "height": "100%",
+          "left": 0,
+          "position": "absolute",
+          "top": 0,
+          "width": 120,
+        }
+      }
+    >
+      <p>
+        Contact 1
+      </p>
+    </li>
+    <li
+      className="sc-AxhCb McWYO"
+      data-testid={null}
+      orientation="vertical"
+      style={
+        Object {
+          "height": "100%",
+          "left": 120,
+          "position": "absolute",
+          "top": 0,
+          "width": 120,
+        }
+      }
+    >
+      <p>
+        Contact 2
+      </p>
+    </li>
+    <li
+      className="sc-AxhCb McWYO"
+      data-testid={null}
+      orientation="vertical"
+      style={
+        Object {
+          "height": "100%",
+          "left": 240,
+          "position": "absolute",
+          "top": 0,
+          "width": 120,
+        }
+      }
+    >
+      <p>
+        Contact 3
+      </p>
+    </li>
+    <li
+      className="sc-AxhCb McWYO"
+      data-testid={null}
+      orientation="vertical"
+      style={
+        Object {
+          "height": "100%",
+          "left": 360,
+          "position": "absolute",
+          "top": 0,
+          "width": 120,
+        }
+      }
+    >
+      <p>
+        Contact 4
+      </p>
+    </li>
+    <li
+      className="sc-AxhCb McWYO"
+      data-testid={null}
+      orientation="vertical"
+      style={
+        Object {
+          "height": "100%",
+          "left": 480,
+          "position": "absolute",
+          "top": 0,
+          "width": 120,
+        }
+      }
+    >
+      <p>
+        Contact 5
+      </p>
+    </li>
+    <li
+      className="sc-AxhCb McWYO"
+      data-testid={null}
+      orientation="vertical"
+      style={
+        Object {
+          "height": "100%",
+          "left": 600,
+          "position": "absolute",
+          "top": 0,
+          "width": 120,
+        }
+      }
+    >
+      <p>
+        Contact 6
+      </p>
+    </li>
+    <li
+      className="sc-AxhCb McWYO"
+      data-testid={null}
+      orientation="vertical"
+      style={
+        Object {
+          "height": "100%",
+          "left": 720,
+          "position": "absolute",
+          "top": 0,
+          "width": 120,
+        }
+      }
+    >
+      <p>
+        Contact 7
+      </p>
+    </li>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Image Basic 1`] = `
+<figure
+  className="sc-AxhUy qxWOA sc-AxhCb McWYO"
+  orientation="vertical"
+/>
+`;
+
+exports[`Storyshots Image Image With Caption 1`] = `
+<figure
+  className="sc-AxhUy qxWOA sc-AxhCb McWYO"
+  orientation="vertical"
+/>
+`;
+
+exports[`Storyshots Image Image With Multiple Sources 1`] = `
+<figure
+  className="sc-AxhUy qxWOA sc-AxhCb McWYO"
+  orientation="vertical"
+/>
+`;
+
+exports[`Storyshots Image Image With Progress Element 1`] = `
+<figure
+  className="sc-AxhUy qxWOA sc-AxhCb McWYO"
+  orientation="vertical"
+>
+  <div
+    className="sc-AxgMl jNcIOg"
+  />
+</figure>
+`;
+
+exports[`Storyshots Image Image With Text Placeholder 1`] = `
+<figure
+  className="sc-AxhUy qxWOA sc-AxhCb McWYO"
+  orientation="vertical"
+>
+  Loading
+</figure>
+`;
+
+exports[`Storyshots List Basic 1`] = `
+<ul
+  className="sc-Axmtr hzeYjD"
+  orientation="vertical"
+>
+  <li
+    className="sc-AxmLO kgqjmq"
+    data-testid={null}
+  >
+    <p>
+      Jonas
+    </p>
+  </li>
+  <li
+    className="sc-AxmLO kgqjmq"
+    data-testid={null}
+  >
+    <p>
+      Martha
+    </p>
+  </li>
+  <li
+    className="sc-AxmLO kgqjmq"
+    data-testid={null}
+  >
+    <p>
+      Charles
+    </p>
+  </li>
+  <li
+    className="sc-AxmLO kgqjmq"
+    data-testid={null}
+  >
+    <p>
+      Fredrik
+    </p>
+  </li>
+</ul>
+`;
+
+exports[`Storyshots List Horizontal 1`] = `
+<ul
+  className="sc-Axmtr iqwcvj"
+  orientation="horizontal"
+>
+  <li
+    className="sc-AxmLO kgqjmq"
+    data-testid={null}
+  >
+    <p>
+      Jonas
+    </p>
+  </li>
+  <li
+    className="sc-AxmLO kgqjmq"
+    data-testid={null}
+  >
+    <p>
+      Martha
+    </p>
+  </li>
+  <li
+    className="sc-AxmLO kgqjmq"
+    data-testid={null}
+  >
+    <p>
+      Charles
+    </p>
+  </li>
+  <li
+    className="sc-AxmLO kgqjmq"
+    data-testid={null}
+  >
+    <p>
+      Fredrik
+    </p>
+  </li>
+</ul>
+`;
+
+exports[`Storyshots List Horizontal With Gap 1`] = `
+<ul
+  className="sc-Axmtr iLDiDw"
+  orientation="horizontal"
+>
+  <li
+    className="sc-AxmLO iqfNpR"
+    data-testid={null}
+  >
+    <p>
+      Jonas
+    </p>
+  </li>
+  <li
+    className="sc-AxmLO iqfNpR"
+    data-testid={null}
+  >
+    <p>
+      Martha
+    </p>
+  </li>
+  <li
+    className="sc-AxmLO iqfNpR"
+    data-testid={null}
+  >
+    <p>
+      Charles
+    </p>
+  </li>
+  <li
+    className="sc-AxmLO iqfNpR"
+    data-testid={null}
+  >
+    <p>
+      Fredrik
+    </p>
+  </li>
+</ul>
+`;
+
+exports[`Storyshots List Vertical With Gap 1`] = `
+<ul
+  className="sc-Axmtr egsacE"
+  orientation="vertical"
+>
+  <li
+    className="sc-AxmLO iqfNpR"
+    data-testid={null}
+  >
+    <p>
+      Jonas
+    </p>
+  </li>
+  <li
+    className="sc-AxmLO iqfNpR"
+    data-testid={null}
+  >
+    <p>
+      Martha
+    </p>
+  </li>
+  <li
+    className="sc-AxmLO iqfNpR"
+    data-testid={null}
+  >
+    <p>
+      Charles
+    </p>
+  </li>
+  <li
+    className="sc-AxmLO iqfNpR"
+    data-testid={null}
+  >
+    <p>
+      Fredrik
+    </p>
+  </li>
+</ul>
+`;
+
+exports[`Storyshots ScrollView Basic 1`] = `
+<div
+  style={
+    Object {
+      "border": "2px solid #ddd",
+      "height": 300,
+      "padding": 12,
+    }
+  }
+>
+  <div
+    className="sc-fzoLsD htyfiw"
+    onScroll={[Function]}
+    orientation="vertical"
+  >
+    <h2
+      style={
+        Object {
+          "marginBottom": 16,
+        }
+      }
+    >
+      Some Title
+    </h2>
+    <p>
+      
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. In cursus turpis
+massa tincidunt dui ut ornare lectus sit. Ut sem nulla pharetra diam
+sit. Id donec ultrices tincidunt arcu non sodales neque sodales. Sapien
+nec sagittis aliquam malesuada bibendum arcu vitae elementum curabitur.
+Est sit amet facilisis magna. Leo vel fringilla est ullamcorper eget
+nulla. Blandit volutpat maecenas volutpat blandit aliquam. Ut pharetra
+sit amet aliquam id diam. Sagittis aliquam malesuada bibendum arcu vitae
+elementum curabitur vitae. Id leo in vitae turpis massa sed elementum
+tempus egestas. Et leo duis ut diam. Aenean et tortor at risus. Eget
+duis at tellus at. Vulputate odio ut enim blandit volutpat maecenas.
+Faucibus vitae aliquet nec ullamcorper sit amet risus nullam eget. Leo
+vel fringilla est ullamcorper eget. Tortor dignissim convallis aenean
+et. Montes nascetur ridiculus mus mauris vitae ultricies. Turpis in eu
+mi bibendum. Mollis aliquam ut porttitor leo a diam sollicitudin tempor
+id. Suspendisse in est ante in nibh. Vitae nunc sed velit dignissim
+sodales ut eu sem. Suspendisse ultrices gravida dictum fusce ut
+placerat. Quam elementum pulvinar etiam non. Imperdiet proin fermentum
+leo vel orci porta non. Vel quam elementum pulvinar etiam non quam lacus
+suspendisse faucibus. Rhoncus aenean vel elit scelerisque mauris. Diam
+quis enim lobortis scelerisque fermentum. Facilisis gravida neque
+convallis a cras semper. Purus sit amet volutpat consequat mauris nunc
+congue nisi vitae. Tellus id interdum velit laoreet id donec ultrices.
+Elementum tempus egestas sed sed risus. Lacinia at quis risus sed. Id
+interdum velit laoreet id donec ultrices tincidunt arcu. Duis ultricies
+lacus sed turpis tincidunt. Hac habitasse platea dictumst vestibulum
+rhoncus est pellentesque. Ultrices mi tempus imperdiet nulla malesuada.
+Non curabitur gravida arcu ac tortor dignissim. Ut sem viverra aliquet
+eget sit amet tellus cras. Ultricies integer quis auctor elit.
+Consectetur adipiscing elit duis tristique sollicitudin nibh sit amet
+commodo. Mi ipsum faucibus vitae aliquet nec ullamcorper. Nec ultrices
+dui sapien eget mi proin. Ultricies tristique nulla aliquet enim tortor
+at. Donec adipiscing tristique risus nec feugiat in. Bibendum ut
+tristique et egestas quis. Libero enim sed faucibus turpis in eu mi.
+Aliquam vestibulum morbi blandit cursus risus. Pellentesque eu tincidunt
+tortor aliquam. Volutpat ac tincidunt vitae semper quis. At quis risus
+sed vulputate odio ut enim. At in tellus integer feugiat. Mattis
+pellentesque id nibh tortor. Eget egestas purus viverra accumsan in nisl
+nisi scelerisque eu. Nunc non blandit massa enim nec dui. Malesuada
+fames ac turpis egestas integer eget aliquet nibh praesent. Justo donec
+enim diam vulputate ut pharetra. Proin libero nunc consequat interdum
+varius. Cras sed felis eget velit aliquet sagittis id. Lorem mollis
+aliquam ut porttitor leo a diam sollicitudin tempor. Pretium quam
+vulputate dignissim suspendisse in. Non sodales neque sodales ut. Donec
+et odio pellentesque diam volutpat. Tempus quam pellentesque nec nam
+aliquam sem et tortor. Tellus cras adipiscing enim eu turpis egestas
+pretium aenean pharetra. Malesuada fames ac turpis egestas sed tempus
+urna. Facilisis magna etiam tempor orci eu lobortis. Tincidunt ornare
+massa eget egestas. Nulla aliquet enim tortor at auctor. Placerat in
+egestas erat imperdiet sed. Odio eu feugiat pretium nibh ipsum consequat
+nisl vel. Congue nisi vitae suscipit tellus mauris a diam maecenas sed.
+Eu consequat ac felis donec et odio pellentesque. Quam pellentesque nec
+nam aliquam sem et tortor consequat. Semper viverra nam libero justo
+laoreet sit amet cursus sit. Viverra accumsan in nisl nisi scelerisque
+eu ultrices vitae. Lorem ipsum dolor sit amet, consectetur adipiscing
+elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+In cursus turpis massa tincidunt dui ut ornare lectus sit. Ut sem nulla
+pharetra diam sit. Id donec ultrices tincidunt arcu non sodales neque
+sodales. Sapien nec sagittis aliquam malesuada bibendum arcu vitae
+elementum curabitur. Est sit amet facilisis magna. Leo vel fringilla est
+ullamcorper eget nulla. Blandit volutpat maecenas volutpat blandit
+aliquam. Ut pharetra sit amet aliquam id diam. Sagittis aliquam
+malesuada bibendum arcu vitae elementum curabitur vitae. Id leo in vitae
+turpis massa sed elementum tempus egestas. Et leo duis ut diam. Aenean
+et tortor at risus. Eget duis at tellus at. Vulputate odio ut enim
+blandit volutpat maecenas. Faucibus vitae aliquet nec ullamcorper sit
+amet risus nullam eget. Leo vel fringilla est ullamcorper eget. Tortor
+dignissim convallis aenean et. Montes nascetur ridiculus mus mauris
+vitae ultricies. Turpis in eu mi bibendum. Mollis aliquam ut porttitor
+leo a diam sollicitudin tempor id. Suspendisse in est ante in nibh.
+Vitae nunc sed velit dignissim sodales ut eu sem. Suspendisse ultrices
+gravida dictum fusce ut placerat. Quam elementum pulvinar etiam non.
+Imperdiet proin fermentum leo vel orci porta non. Vel quam elementum
+pulvinar etiam non quam lacus suspendisse faucibus. Rhoncus aenean vel
+elit scelerisque mauris. Diam quis enim lobortis scelerisque fermentum.
+Facilisis gravida neque convallis a cras semper. Purus sit amet volutpat
+consequat mauris nunc congue nisi vitae. Tellus id interdum velit
+laoreet id donec ultrices. Elementum tempus egestas sed sed risus.
+Lacinia at quis risus sed. Id interdum velit laoreet id donec ultrices
+tincidunt arcu. Duis ultricies lacus sed turpis tincidunt. Hac habitasse
+platea dictumst vestibulum rhoncus est pellentesque. Ultrices mi tempus
+imperdiet nulla malesuada. Non curabitur gravida arcu ac tortor
+dignissim. Ut sem viverra aliquet eget sit amet tellus cras. Ultricies
+integer quis auctor elit. Consectetur adipiscing elit duis tristique
+sollicitudin nibh sit amet commodo. Mi ipsum faucibus vitae aliquet nec
+ullamcorper. Nec ultrices dui sapien eget mi proin. Ultricies tristique
+nulla aliquet enim tortor at. Donec adipiscing tristique risus nec
+feugiat in. Bibendum ut tristique et egestas quis. Libero enim sed
+faucibus turpis in eu mi. Aliquam vestibulum morbi blandit cursus risus.
+Pellentesque eu tincidunt tortor aliquam. Volutpat ac tincidunt vitae
+semper quis. At quis risus sed vulputate odio ut enim. At in tellus
+integer feugiat. Mattis pellentesque id nibh tortor. Eget egestas purus
+viverra accumsan in nisl nisi scelerisque eu. Nunc non blandit massa
+enim nec dui. Malesuada fames ac turpis egestas integer eget aliquet
+nibh praesent. Justo donec enim diam vulputate ut pharetra. Proin libero
+nunc consequat interdum varius. Cras sed felis eget velit aliquet
+sagittis id. Lorem mollis aliquam ut porttitor leo a diam sollicitudin
+tempor. Pretium quam vulputate dignissim suspendisse in. Non sodales
+neque sodales ut. Donec et odio pellentesque diam volutpat. Tempus quam
+pellentesque nec nam aliquam sem et tortor. Tellus cras adipiscing enim
+eu turpis egestas pretium aenean pharetra. Malesuada fames ac turpis
+egestas sed tempus urna. Facilisis magna etiam tempor orci eu lobortis.
+Tincidunt ornare massa eget egestas. Nulla aliquet enim tortor at
+auctor. Placerat in egestas erat imperdiet sed. Odio eu feugiat pretium
+nibh ipsum consequat nisl vel. Congue nisi vitae suscipit tellus mauris
+a diam maecenas sed. Eu consequat ac felis donec et odio pellentesque.
+Quam pellentesque nec nam aliquam sem et tortor consequat. Semper
+viverra nam libero justo laoreet sit amet cursus sit. Viverra accumsan
+in nisl nisi scelerisque eu ultrices vitae. Lorem ipsum dolor sit amet,
+consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+et dolore magna aliqua. In cursus turpis massa tincidunt dui ut ornare
+lectus sit. Ut sem nulla pharetra diam sit. Id donec ultrices tincidunt
+arcu non sodales neque sodales. Sapien nec sagittis aliquam malesuada
+bibendum arcu vitae elementum curabitur. Est sit amet facilisis magna.
+Leo vel fringilla est ullamcorper eget nulla. Blandit volutpat maecenas
+volutpat blandit aliquam. Ut pharetra sit amet aliquam id diam. Sagittis
+aliquam malesuada bibendum arcu vitae elementum curabitur vitae. Id leo
+in vitae turpis massa sed elementum tempus egestas. Et leo duis ut diam.
+Aenean et tortor at risus. Eget duis at tellus at. Vulputate odio ut
+enim blandit volutpat maecenas. Faucibus vitae aliquet nec ullamcorper
+sit amet risus nullam eget. Leo vel fringilla est ullamcorper eget.
+Tortor dignissim convallis aenean et. Montes nascetur ridiculus mus
+mauris vitae ultricies. Turpis in eu mi bibendum. Mollis aliquam ut
+porttitor leo a diam sollicitudin tempor id. Suspendisse in est ante in
+nibh. Vitae nunc sed velit dignissim sodales ut eu sem. Suspendisse
+ultrices gravida dictum fusce ut placerat. Quam elementum pulvinar etiam
+non. Imperdiet proin fermentum leo vel orci porta non. Vel quam
+elementum pulvinar etiam non quam lacus suspendisse faucibus. Rhoncus
+aenean vel elit scelerisque mauris. Diam quis enim lobortis scelerisque
+fermentum. Facilisis gravida neque convallis a cras semper. Purus sit
+amet volutpat consequat mauris nunc congue nisi vitae. Tellus id
+interdum velit laoreet id donec ultrices. Elementum tempus egestas sed
+sed risus. Lacinia at quis risus sed. Id interdum velit laoreet id donec
+ultrices tincidunt arcu. Duis ultricies lacus sed turpis tincidunt. Hac
+habitasse platea dictumst vestibulum rhoncus est pellentesque. Ultrices
+mi tempus imperdiet nulla malesuada. Non curabitur gravida arcu ac
+tortor dignissim. Ut sem viverra aliquet eget sit amet tellus cras.
+Ultricies integer quis auctor elit. Consectetur adipiscing elit duis
+tristique sollicitudin nibh sit amet commodo. Mi ipsum faucibus vitae
+aliquet nec ullamcorper. Nec ultrices dui sapien eget mi proin.
+Ultricies tristique nulla aliquet enim tortor at. Donec adipiscing
+tristique risus nec feugiat in. Bibendum ut tristique et egestas quis.
+Libero enim sed faucibus turpis in eu mi. Aliquam vestibulum morbi
+blandit cursus risus. Pellentesque eu tincidunt tortor aliquam. Volutpat
+ac tincidunt vitae semper quis. At quis risus sed vulputate odio ut
+enim. At in tellus integer feugiat. Mattis pellentesque id nibh tortor.
+Eget egestas purus viverra accumsan in nisl nisi scelerisque eu. Nunc
+non blandit massa enim nec dui. Malesuada fames ac turpis egestas
+integer eget aliquet nibh praesent. Justo donec enim diam vulputate ut
+pharetra. Proin libero nunc consequat interdum varius. Cras sed felis
+eget velit aliquet sagittis id. Lorem mollis aliquam ut porttitor leo a
+diam sollicitudin tempor. Pretium quam vulputate dignissim suspendisse
+in. Non sodales neque sodales ut. Donec et odio pellentesque diam
+volutpat. Tempus quam pellentesque nec nam aliquam sem et tortor. Tellus
+cras adipiscing enim eu turpis egestas pretium aenean pharetra.
+Malesuada fames ac turpis egestas sed tempus urna. Facilisis magna etiam
+tempor orci eu lobortis. Tincidunt ornare massa eget egestas. Nulla
+aliquet enim tortor at auctor. Placerat in egestas erat imperdiet sed.
+Odio eu feugiat pretium nibh ipsum consequat nisl vel. Congue nisi vitae
+suscipit tellus mauris a diam maecenas sed. Eu consequat ac felis donec
+et odio pellentesque. Quam pellentesque nec nam aliquam sem et tortor
+consequat. Semper viverra nam libero justo laoreet sit amet cursus sit.
+Viverra accumsan in nisl nisi scelerisque eu ultrices vitae.
+
+    </p>
+  </div>
+</div>
+`;
+
+exports[`Storyshots ScrollView Without Scrollbars 1`] = `
+<div
+  style={
+    Object {
+      "border": "2px solid #ddd",
+      "height": 300,
+      "padding": 12,
+    }
+  }
+>
+  <div
+    className="sc-fzoLsD gbLDVj"
+    onScroll={[Function]}
+    orientation="vertical"
+  >
+    <h2
+      style={
+        Object {
+          "marginBottom": 16,
+        }
+      }
+    >
+      Some Title
+    </h2>
+    <p>
+      
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. In cursus turpis
+massa tincidunt dui ut ornare lectus sit. Ut sem nulla pharetra diam
+sit. Id donec ultrices tincidunt arcu non sodales neque sodales. Sapien
+nec sagittis aliquam malesuada bibendum arcu vitae elementum curabitur.
+Est sit amet facilisis magna. Leo vel fringilla est ullamcorper eget
+nulla. Blandit volutpat maecenas volutpat blandit aliquam. Ut pharetra
+sit amet aliquam id diam. Sagittis aliquam malesuada bibendum arcu vitae
+elementum curabitur vitae. Id leo in vitae turpis massa sed elementum
+tempus egestas. Et leo duis ut diam. Aenean et tortor at risus. Eget
+duis at tellus at. Vulputate odio ut enim blandit volutpat maecenas.
+Faucibus vitae aliquet nec ullamcorper sit amet risus nullam eget. Leo
+vel fringilla est ullamcorper eget. Tortor dignissim convallis aenean
+et. Montes nascetur ridiculus mus mauris vitae ultricies. Turpis in eu
+mi bibendum. Mollis aliquam ut porttitor leo a diam sollicitudin tempor
+id. Suspendisse in est ante in nibh. Vitae nunc sed velit dignissim
+sodales ut eu sem. Suspendisse ultrices gravida dictum fusce ut
+placerat. Quam elementum pulvinar etiam non. Imperdiet proin fermentum
+leo vel orci porta non. Vel quam elementum pulvinar etiam non quam lacus
+suspendisse faucibus. Rhoncus aenean vel elit scelerisque mauris. Diam
+quis enim lobortis scelerisque fermentum. Facilisis gravida neque
+convallis a cras semper. Purus sit amet volutpat consequat mauris nunc
+congue nisi vitae. Tellus id interdum velit laoreet id donec ultrices.
+Elementum tempus egestas sed sed risus. Lacinia at quis risus sed. Id
+interdum velit laoreet id donec ultrices tincidunt arcu. Duis ultricies
+lacus sed turpis tincidunt. Hac habitasse platea dictumst vestibulum
+rhoncus est pellentesque. Ultrices mi tempus imperdiet nulla malesuada.
+Non curabitur gravida arcu ac tortor dignissim. Ut sem viverra aliquet
+eget sit amet tellus cras. Ultricies integer quis auctor elit.
+Consectetur adipiscing elit duis tristique sollicitudin nibh sit amet
+commodo. Mi ipsum faucibus vitae aliquet nec ullamcorper. Nec ultrices
+dui sapien eget mi proin. Ultricies tristique nulla aliquet enim tortor
+at. Donec adipiscing tristique risus nec feugiat in. Bibendum ut
+tristique et egestas quis. Libero enim sed faucibus turpis in eu mi.
+Aliquam vestibulum morbi blandit cursus risus. Pellentesque eu tincidunt
+tortor aliquam. Volutpat ac tincidunt vitae semper quis. At quis risus
+sed vulputate odio ut enim. At in tellus integer feugiat. Mattis
+pellentesque id nibh tortor. Eget egestas purus viverra accumsan in nisl
+nisi scelerisque eu. Nunc non blandit massa enim nec dui. Malesuada
+fames ac turpis egestas integer eget aliquet nibh praesent. Justo donec
+enim diam vulputate ut pharetra. Proin libero nunc consequat interdum
+varius. Cras sed felis eget velit aliquet sagittis id. Lorem mollis
+aliquam ut porttitor leo a diam sollicitudin tempor. Pretium quam
+vulputate dignissim suspendisse in. Non sodales neque sodales ut. Donec
+et odio pellentesque diam volutpat. Tempus quam pellentesque nec nam
+aliquam sem et tortor. Tellus cras adipiscing enim eu turpis egestas
+pretium aenean pharetra. Malesuada fames ac turpis egestas sed tempus
+urna. Facilisis magna etiam tempor orci eu lobortis. Tincidunt ornare
+massa eget egestas. Nulla aliquet enim tortor at auctor. Placerat in
+egestas erat imperdiet sed. Odio eu feugiat pretium nibh ipsum consequat
+nisl vel. Congue nisi vitae suscipit tellus mauris a diam maecenas sed.
+Eu consequat ac felis donec et odio pellentesque. Quam pellentesque nec
+nam aliquam sem et tortor consequat. Semper viverra nam libero justo
+laoreet sit amet cursus sit. Viverra accumsan in nisl nisi scelerisque
+eu ultrices vitae. Lorem ipsum dolor sit amet, consectetur adipiscing
+elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+In cursus turpis massa tincidunt dui ut ornare lectus sit. Ut sem nulla
+pharetra diam sit. Id donec ultrices tincidunt arcu non sodales neque
+sodales. Sapien nec sagittis aliquam malesuada bibendum arcu vitae
+elementum curabitur. Est sit amet facilisis magna. Leo vel fringilla est
+ullamcorper eget nulla. Blandit volutpat maecenas volutpat blandit
+aliquam. Ut pharetra sit amet aliquam id diam. Sagittis aliquam
+malesuada bibendum arcu vitae elementum curabitur vitae. Id leo in vitae
+turpis massa sed elementum tempus egestas. Et leo duis ut diam. Aenean
+et tortor at risus. Eget duis at tellus at. Vulputate odio ut enim
+blandit volutpat maecenas. Faucibus vitae aliquet nec ullamcorper sit
+amet risus nullam eget. Leo vel fringilla est ullamcorper eget. Tortor
+dignissim convallis aenean et. Montes nascetur ridiculus mus mauris
+vitae ultricies. Turpis in eu mi bibendum. Mollis aliquam ut porttitor
+leo a diam sollicitudin tempor id. Suspendisse in est ante in nibh.
+Vitae nunc sed velit dignissim sodales ut eu sem. Suspendisse ultrices
+gravida dictum fusce ut placerat. Quam elementum pulvinar etiam non.
+Imperdiet proin fermentum leo vel orci porta non. Vel quam elementum
+pulvinar etiam non quam lacus suspendisse faucibus. Rhoncus aenean vel
+elit scelerisque mauris. Diam quis enim lobortis scelerisque fermentum.
+Facilisis gravida neque convallis a cras semper. Purus sit amet volutpat
+consequat mauris nunc congue nisi vitae. Tellus id interdum velit
+laoreet id donec ultrices. Elementum tempus egestas sed sed risus.
+Lacinia at quis risus sed. Id interdum velit laoreet id donec ultrices
+tincidunt arcu. Duis ultricies lacus sed turpis tincidunt. Hac habitasse
+platea dictumst vestibulum rhoncus est pellentesque. Ultrices mi tempus
+imperdiet nulla malesuada. Non curabitur gravida arcu ac tortor
+dignissim. Ut sem viverra aliquet eget sit amet tellus cras. Ultricies
+integer quis auctor elit. Consectetur adipiscing elit duis tristique
+sollicitudin nibh sit amet commodo. Mi ipsum faucibus vitae aliquet nec
+ullamcorper. Nec ultrices dui sapien eget mi proin. Ultricies tristique
+nulla aliquet enim tortor at. Donec adipiscing tristique risus nec
+feugiat in. Bibendum ut tristique et egestas quis. Libero enim sed
+faucibus turpis in eu mi. Aliquam vestibulum morbi blandit cursus risus.
+Pellentesque eu tincidunt tortor aliquam. Volutpat ac tincidunt vitae
+semper quis. At quis risus sed vulputate odio ut enim. At in tellus
+integer feugiat. Mattis pellentesque id nibh tortor. Eget egestas purus
+viverra accumsan in nisl nisi scelerisque eu. Nunc non blandit massa
+enim nec dui. Malesuada fames ac turpis egestas integer eget aliquet
+nibh praesent. Justo donec enim diam vulputate ut pharetra. Proin libero
+nunc consequat interdum varius. Cras sed felis eget velit aliquet
+sagittis id. Lorem mollis aliquam ut porttitor leo a diam sollicitudin
+tempor. Pretium quam vulputate dignissim suspendisse in. Non sodales
+neque sodales ut. Donec et odio pellentesque diam volutpat. Tempus quam
+pellentesque nec nam aliquam sem et tortor. Tellus cras adipiscing enim
+eu turpis egestas pretium aenean pharetra. Malesuada fames ac turpis
+egestas sed tempus urna. Facilisis magna etiam tempor orci eu lobortis.
+Tincidunt ornare massa eget egestas. Nulla aliquet enim tortor at
+auctor. Placerat in egestas erat imperdiet sed. Odio eu feugiat pretium
+nibh ipsum consequat nisl vel. Congue nisi vitae suscipit tellus mauris
+a diam maecenas sed. Eu consequat ac felis donec et odio pellentesque.
+Quam pellentesque nec nam aliquam sem et tortor consequat. Semper
+viverra nam libero justo laoreet sit amet cursus sit. Viverra accumsan
+in nisl nisi scelerisque eu ultrices vitae. Lorem ipsum dolor sit amet,
+consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
+et dolore magna aliqua. In cursus turpis massa tincidunt dui ut ornare
+lectus sit. Ut sem nulla pharetra diam sit. Id donec ultrices tincidunt
+arcu non sodales neque sodales. Sapien nec sagittis aliquam malesuada
+bibendum arcu vitae elementum curabitur. Est sit amet facilisis magna.
+Leo vel fringilla est ullamcorper eget nulla. Blandit volutpat maecenas
+volutpat blandit aliquam. Ut pharetra sit amet aliquam id diam. Sagittis
+aliquam malesuada bibendum arcu vitae elementum curabitur vitae. Id leo
+in vitae turpis massa sed elementum tempus egestas. Et leo duis ut diam.
+Aenean et tortor at risus. Eget duis at tellus at. Vulputate odio ut
+enim blandit volutpat maecenas. Faucibus vitae aliquet nec ullamcorper
+sit amet risus nullam eget. Leo vel fringilla est ullamcorper eget.
+Tortor dignissim convallis aenean et. Montes nascetur ridiculus mus
+mauris vitae ultricies. Turpis in eu mi bibendum. Mollis aliquam ut
+porttitor leo a diam sollicitudin tempor id. Suspendisse in est ante in
+nibh. Vitae nunc sed velit dignissim sodales ut eu sem. Suspendisse
+ultrices gravida dictum fusce ut placerat. Quam elementum pulvinar etiam
+non. Imperdiet proin fermentum leo vel orci porta non. Vel quam
+elementum pulvinar etiam non quam lacus suspendisse faucibus. Rhoncus
+aenean vel elit scelerisque mauris. Diam quis enim lobortis scelerisque
+fermentum. Facilisis gravida neque convallis a cras semper. Purus sit
+amet volutpat consequat mauris nunc congue nisi vitae. Tellus id
+interdum velit laoreet id donec ultrices. Elementum tempus egestas sed
+sed risus. Lacinia at quis risus sed. Id interdum velit laoreet id donec
+ultrices tincidunt arcu. Duis ultricies lacus sed turpis tincidunt. Hac
+habitasse platea dictumst vestibulum rhoncus est pellentesque. Ultrices
+mi tempus imperdiet nulla malesuada. Non curabitur gravida arcu ac
+tortor dignissim. Ut sem viverra aliquet eget sit amet tellus cras.
+Ultricies integer quis auctor elit. Consectetur adipiscing elit duis
+tristique sollicitudin nibh sit amet commodo. Mi ipsum faucibus vitae
+aliquet nec ullamcorper. Nec ultrices dui sapien eget mi proin.
+Ultricies tristique nulla aliquet enim tortor at. Donec adipiscing
+tristique risus nec feugiat in. Bibendum ut tristique et egestas quis.
+Libero enim sed faucibus turpis in eu mi. Aliquam vestibulum morbi
+blandit cursus risus. Pellentesque eu tincidunt tortor aliquam. Volutpat
+ac tincidunt vitae semper quis. At quis risus sed vulputate odio ut
+enim. At in tellus integer feugiat. Mattis pellentesque id nibh tortor.
+Eget egestas purus viverra accumsan in nisl nisi scelerisque eu. Nunc
+non blandit massa enim nec dui. Malesuada fames ac turpis egestas
+integer eget aliquet nibh praesent. Justo donec enim diam vulputate ut
+pharetra. Proin libero nunc consequat interdum varius. Cras sed felis
+eget velit aliquet sagittis id. Lorem mollis aliquam ut porttitor leo a
+diam sollicitudin tempor. Pretium quam vulputate dignissim suspendisse
+in. Non sodales neque sodales ut. Donec et odio pellentesque diam
+volutpat. Tempus quam pellentesque nec nam aliquam sem et tortor. Tellus
+cras adipiscing enim eu turpis egestas pretium aenean pharetra.
+Malesuada fames ac turpis egestas sed tempus urna. Facilisis magna etiam
+tempor orci eu lobortis. Tincidunt ornare massa eget egestas. Nulla
+aliquet enim tortor at auctor. Placerat in egestas erat imperdiet sed.
+Odio eu feugiat pretium nibh ipsum consequat nisl vel. Congue nisi vitae
+suscipit tellus mauris a diam maecenas sed. Eu consequat ac felis donec
+et odio pellentesque. Quam pellentesque nec nam aliquam sem et tortor
+consequat. Semper viverra nam libero justo laoreet sit amet cursus sit.
+Viverra accumsan in nisl nisi scelerisque eu ultrices vitae.
+
+    </p>
+  </div>
+</div>
+`;
+
+exports[`Storyshots Spacer Horizontal 1`] = `
+<div
+  style={
+    Object {
+      "display": "flex",
+    }
+  }
+>
+  <p>
+    First Element
+  </p>
+  <div
+    className="sc-fzpans lomXRg"
+    width="200px"
+  />
+  <p>
+    Second Element
+  </p>
+  <div
+    className="sc-fzpans eCaCYk"
+    width="150px"
+  />
+  <p>
+    Third Element
+  </p>
+</div>
+`;
+
+exports[`Storyshots Spacer Using Flexbox 1`] = `
+<div
+  style={
+    Object {
+      "display": "flex",
+    }
+  }
+>
+  <p>
+    First Element
+  </p>
+  <div
+    className="sc-fzpans iXVWUt"
+  />
+  <p>
+    Second Element
+  </p>
+  <div
+    className="sc-fzpans iXVWUt"
+  />
+  <p>
+    Third Element
+  </p>
+</div>
+`;
+
+exports[`Storyshots Spacer Vertical 1`] = `
+<div>
+  <p>
+    First Element
+  </p>
+  <div
+    className="sc-fzpans eGqIZn"
+    height="50"
+  />
+  <p>
+    Second Element
+  </p>
+  <div
+    className="sc-fzpans fppuGb"
+    height="70px"
+  />
+  <p>
+    Third Element
+  </p>
+</div>
+`;
+
+exports[`Storyshots Stack Basic 1`] = `
+<div
+  className="sc-AxhCb McWYO"
+  orientation="vertical"
+>
+  <div
+    style={
+      Object {
+        "backgroundColor": "red",
+        "height": 200,
+        "width": 200,
+      }
+    }
+  />
+  <div
+    style={
+      Object {
+        "backgroundColor": "wheat",
+        "height": 200,
+        "width": 200,
+      }
+    }
+  />
+  <div
+    style={
+      Object {
+        "backgroundColor": "steelblue",
+        "height": 200,
+        "width": 200,
+      }
+    }
+  />
+</div>
+`;
+
+exports[`Storyshots Stack Horizontal 1`] = `
+<div
+  className="sc-AxhCb hDJPem"
+  orientation="horizontal"
+>
+  <div
+    style={
+      Object {
+        "backgroundColor": "red",
+        "height": 200,
+        "width": 200,
+      }
+    }
+  />
+  <div
+    style={
+      Object {
+        "backgroundColor": "wheat",
+        "height": 200,
+        "width": 200,
+      }
+    }
+  />
+  <div
+    style={
+      Object {
+        "backgroundColor": "steelblue",
+        "height": 200,
+        "width": 200,
+      }
+    }
+  />
+</div>
+`;
+
+exports[`Storyshots Stack Responsive Orientation 1`] = `
+<div
+  className="sc-AxhCb exljgy"
+  orientation={
+    Object {
+      "lg": "vertical",
+      "md": "horizontal",
+      "sm": "vertical",
+      "xs": "horizontal",
+    }
+  }
+>
+  <div
+    style={
+      Object {
+        "backgroundColor": "red",
+        "height": 200,
+        "width": 200,
+      }
+    }
+  />
+  <div
+    style={
+      Object {
+        "backgroundColor": "wheat",
+        "height": 200,
+        "width": 200,
+      }
+    }
+  />
+  <div
+    style={
+      Object {
+        "backgroundColor": "steelblue",
+        "height": 200,
+        "width": 200,
+      }
+    }
+  />
+</div>
+`;
+
+exports[`Storyshots Stack Vertical 1`] = `
+<div
+  className="sc-AxhCb McWYO"
+  orientation="vertical"
+>
+  <div
+    style={
+      Object {
+        "backgroundColor": "red",
+        "height": 200,
+        "width": 200,
+      }
+    }
+  />
+  <div
+    style={
+      Object {
+        "backgroundColor": "wheat",
+        "height": 200,
+        "width": 200,
+      }
+    }
+  />
+  <div
+    style={
+      Object {
+        "backgroundColor": "steelblue",
+        "height": 200,
+        "width": 200,
+      }
+    }
+  />
+</div>
+`;
+
+exports[`Storyshots Text Augmented Fourth Scale 1`] = `
+<div>
+  <h1
+    className="sc-AxjAm hKyWCx"
+    color="primary"
+    fontWeight="normal"
+    scale="augmented-fourth"
+    size={1}
+  >
+    This is a Heading 1
+  </h1>
+  <h2
+    className="sc-AxjAm dPhICd"
+    color="primary"
+    fontWeight="normal"
+    scale="augmented-fourth"
+    size={2}
+  >
+    This is a Heading 2
+  </h2>
+  <h3
+    className="sc-AxjAm dQyRpy"
+    color="primary"
+    fontWeight="normal"
+    scale="augmented-fourth"
+    size={3}
+  >
+    This is a Heading 3
+  </h3>
+  <h4
+    className="sc-AxjAm eBuPWg"
+    color="primary"
+    fontWeight="normal"
+    scale="augmented-fourth"
+    size={4}
+  >
+    This is a Heading 4
+  </h4>
+  <h5
+    className="sc-AxjAm kBIjOz"
+    color="primary"
+    fontWeight="normal"
+    scale="augmented-fourth"
+    size={5}
+  >
+    This is a Heading 5
+  </h5>
+  <h6
+    className="sc-AxjAm kjGglk"
+    color="primary"
+    fontWeight="normal"
+    scale="augmented-fourth"
+    size={6}
+  >
+    This is a Heading 6
+  </h6>
+  <p
+    className="sc-AxjAm cLvUmb"
+    color="primary"
+    fontWeight="normal"
+    scale="augmented-fourth"
+    size={7}
+  >
+    This is a Parragraph
+  </p>
+  <span
+    className="sc-AxjAm ihrrEi"
+    color="primary"
+    fontWeight="normal"
+    scale="augmented-fourth"
+    size={8}
+  >
+    This is a Small
+  </span>
+</div>
+`;
+
+exports[`Storyshots Text Changing Scale On Breakpoints 1`] = `
+<div>
+  <h1
+    className="sc-AxjAm kxQxSX"
+    color="primary"
+    fontWeight="normal"
+    scale={
+      Object {
+        "lg": "perfect-fifth",
+        "md": "augmented-fourth",
+        "sm": "major-third",
+        "xs": "major-second",
+      }
+    }
+    size={1}
+  >
+    This is a Heading 1
+  </h1>
+  <h2
+    className="sc-AxjAm tTnYL"
+    color="primary"
+    fontWeight="normal"
+    scale={
+      Object {
+        "lg": "perfect-fifth",
+        "md": "augmented-fourth",
+        "sm": "major-third",
+        "xs": "major-second",
+      }
+    }
+    size={2}
+  >
+    This is a Heading 2
+  </h2>
+  <h3
+    className="sc-AxjAm kULNZb"
+    color="primary"
+    fontWeight="normal"
+    scale={
+      Object {
+        "lg": "perfect-fifth",
+        "md": "augmented-fourth",
+        "sm": "major-third",
+        "xs": "major-second",
+      }
+    }
+    size={3}
+  >
+    This is a Heading 3
+  </h3>
+  <h4
+    className="sc-AxjAm ldbjIZ"
+    color="primary"
+    fontWeight="normal"
+    scale={
+      Object {
+        "lg": "perfect-fifth",
+        "md": "augmented-fourth",
+        "sm": "major-third",
+        "xs": "major-second",
+      }
+    }
+    size={4}
+  >
+    This is a Heading 4
+  </h4>
+  <h5
+    className="sc-AxjAm hcyPaN"
+    color="primary"
+    fontWeight="normal"
+    scale={
+      Object {
+        "lg": "perfect-fifth",
+        "md": "augmented-fourth",
+        "sm": "major-third",
+        "xs": "major-second",
+      }
+    }
+    size={5}
+  >
+    This is a Heading 5
+  </h5>
+  <h6
+    className="sc-AxjAm hdMPdh"
+    color="primary"
+    fontWeight="normal"
+    scale={
+      Object {
+        "lg": "perfect-fifth",
+        "md": "augmented-fourth",
+        "sm": "major-third",
+        "xs": "major-second",
+      }
+    }
+    size={6}
+  >
+    This is a Heading 6
+  </h6>
+  <p
+    className="sc-AxjAm fnA-dki"
+    color="primary"
+    fontWeight="normal"
+    scale={
+      Object {
+        "lg": "perfect-fifth",
+        "md": "augmented-fourth",
+        "sm": "major-third",
+        "xs": "major-second",
+      }
+    }
+    size={7}
+  >
+    This is a Parragraph
+  </p>
+  <span
+    className="sc-AxjAm dZDakz"
+    color="primary"
+    fontWeight="normal"
+    scale={
+      Object {
+        "lg": "perfect-fifth",
+        "md": "augmented-fourth",
+        "sm": "major-third",
+        "xs": "major-second",
+      }
+    }
+    size={8}
+  >
+    This is a Small
+  </span>
+</div>
+`;
+
+exports[`Storyshots Text Golden Ratio Scale 1`] = `
+<div>
+  <h1
+    className="sc-AxjAm bJsoSB"
+    color="primary"
+    fontWeight="normal"
+    scale="golden-ratio"
+    size={1}
+  >
+    This is a Heading 1
+  </h1>
+  <h2
+    className="sc-AxjAm dClBIE"
+    color="primary"
+    fontWeight="normal"
+    scale="golden-ratio"
+    size={2}
+  >
+    This is a Heading 2
+  </h2>
+  <h3
+    className="sc-AxjAm FKWSv"
+    color="primary"
+    fontWeight="normal"
+    scale="golden-ratio"
+    size={3}
+  >
+    This is a Heading 3
+  </h3>
+  <h4
+    className="sc-AxjAm kWoycw"
+    color="primary"
+    fontWeight="normal"
+    scale="golden-ratio"
+    size={4}
+  >
+    This is a Heading 4
+  </h4>
+  <h5
+    className="sc-AxjAm lipUQo"
+    color="primary"
+    fontWeight="normal"
+    scale="golden-ratio"
+    size={5}
+  >
+    This is a Heading 5
+  </h5>
+  <h6
+    className="sc-AxjAm hUmSTc"
+    color="primary"
+    fontWeight="normal"
+    scale="golden-ratio"
+    size={6}
+  >
+    This is a Heading 6
+  </h6>
+  <p
+    className="sc-AxjAm emtjTR"
+    color="primary"
+    fontWeight="normal"
+    scale="golden-ratio"
+    size={7}
+  >
+    This is a Parragraph
+  </p>
+  <span
+    className="sc-AxjAm gZbVJY"
+    color="primary"
+    fontWeight="normal"
+    scale="golden-ratio"
+    size={8}
+  >
+    This is a Small
+  </span>
+</div>
+`;
+
+exports[`Storyshots Text Major Second Scale 1`] = `
+<div>
+  <h1
+    className="sc-AxjAm dNWDBa"
+    color="primary"
+    fontWeight="normal"
+    scale="major-second"
+    size={1}
+  >
+    This is a Heading 1
+  </h1>
+  <h2
+    className="sc-AxjAm hIuoYa"
+    color="primary"
+    fontWeight="normal"
+    scale="major-second"
+    size={2}
+  >
+    This is a Heading 2
+  </h2>
+  <h3
+    className="sc-AxjAm isPtsC"
+    color="primary"
+    fontWeight="normal"
+    scale="major-second"
+    size={3}
+  >
+    This is a Heading 3
+  </h3>
+  <h4
+    className="sc-AxjAm kkKcbW"
+    color="primary"
+    fontWeight="normal"
+    scale="major-second"
+    size={4}
+  >
+    This is a Heading 4
+  </h4>
+  <h5
+    className="sc-AxjAm gvsHRZ"
+    color="primary"
+    fontWeight="normal"
+    scale="major-second"
+    size={5}
+  >
+    This is a Heading 5
+  </h5>
+  <h6
+    className="sc-AxjAm jyWbMg"
+    color="primary"
+    fontWeight="normal"
+    scale="major-second"
+    size={6}
+  >
+    This is a Heading 6
+  </h6>
+  <p
+    className="sc-AxjAm jFWflQ"
+    color="primary"
+    fontWeight="normal"
+    scale="major-second"
+    size={7}
+  >
+    This is a Parragraph
+  </p>
+  <span
+    className="sc-AxjAm eFmQCh"
+    color="primary"
+    fontWeight="normal"
+    scale="major-second"
+    size={8}
+  >
+    This is a Small
+  </span>
+</div>
+`;
+
+exports[`Storyshots Text Major Third Scale 1`] = `
+<div>
+  <h1
+    className="sc-AxjAm glcpkv"
+    color="primary"
+    fontWeight="normal"
+    scale="major-third"
+    size={1}
+  >
+    This is a Heading 1
+  </h1>
+  <h2
+    className="sc-AxjAm rKGVD"
+    color="primary"
+    fontWeight="normal"
+    scale="major-third"
+    size={2}
+  >
+    This is a Heading 2
+  </h2>
+  <h3
+    className="sc-AxjAm jedMdN"
+    color="primary"
+    fontWeight="normal"
+    scale="major-third"
+    size={3}
+  >
+    This is a Heading 3
+  </h3>
+  <h4
+    className="sc-AxjAm dYItT"
+    color="primary"
+    fontWeight="normal"
+    scale="major-third"
+    size={4}
+  >
+    This is a Heading 4
+  </h4>
+  <h5
+    className="sc-AxjAm jQMUah"
+    color="primary"
+    fontWeight="normal"
+    scale="major-third"
+    size={5}
+  >
+    This is a Heading 5
+  </h5>
+  <h6
+    className="sc-AxjAm btGqak"
+    color="primary"
+    fontWeight="normal"
+    scale="major-third"
+    size={6}
+  >
+    This is a Heading 6
+  </h6>
+  <p
+    className="sc-AxjAm iLnbhR"
+    color="primary"
+    fontWeight="normal"
+    scale="major-third"
+    size={7}
+  >
+    This is a Parragraph
+  </p>
+  <span
+    className="sc-AxjAm iOuZug"
+    color="primary"
+    fontWeight="normal"
+    scale="major-third"
+    size={8}
+  >
+    This is a Small
+  </span>
+</div>
+`;
+
+exports[`Storyshots Text Minor Second Scale 1`] = `
+<div>
+  <h1
+    className="sc-AxjAm njxPk"
+    color="primary"
+    fontWeight="normal"
+    scale="minor-second"
+    size={1}
+  >
+    This is a Heading 1
+  </h1>
+  <h2
+    className="sc-AxjAm clGTPg"
+    color="primary"
+    fontWeight="normal"
+    scale="minor-second"
+    size={2}
+  >
+    This is a Heading 2
+  </h2>
+  <h3
+    className="sc-AxjAm dbOYLL"
+    color="primary"
+    fontWeight="normal"
+    scale="minor-second"
+    size={3}
+  >
+    This is a Heading 3
+  </h3>
+  <h4
+    className="sc-AxjAm fNVmBP"
+    color="primary"
+    fontWeight="normal"
+    scale="minor-second"
+    size={4}
+  >
+    This is a Heading 4
+  </h4>
+  <h5
+    className="sc-AxjAm jjVclq"
+    color="primary"
+    fontWeight="normal"
+    scale="minor-second"
+    size={5}
+  >
+    This is a Heading 5
+  </h5>
+  <h6
+    className="sc-AxjAm iRdWWO"
+    color="primary"
+    fontWeight="normal"
+    scale="minor-second"
+    size={6}
+  >
+    This is a Heading 6
+  </h6>
+  <p
+    className="sc-AxjAm bGhvsP"
+    color="primary"
+    fontWeight="normal"
+    scale="minor-second"
+    size={7}
+  >
+    This is a Parragraph
+  </p>
+  <span
+    className="sc-AxjAm eyWBXC"
+    color="primary"
+    fontWeight="normal"
+    scale="minor-second"
+    size={8}
+  >
+    This is a Small
+  </span>
+</div>
+`;
+
+exports[`Storyshots Text Minor Third Scale 1`] = `
+<div>
+  <h1
+    className="sc-AxjAm kOeXLO"
+    color="primary"
+    fontWeight="normal"
+    scale="minor-third"
+    size={1}
+  >
+    This is a Heading 1
+  </h1>
+  <h2
+    className="sc-AxjAm kOGsuX"
+    color="primary"
+    fontWeight="normal"
+    scale="minor-third"
+    size={2}
+  >
+    This is a Heading 2
+  </h2>
+  <h3
+    className="sc-AxjAm eGMGrB"
+    color="primary"
+    fontWeight="normal"
+    scale="minor-third"
+    size={3}
+  >
+    This is a Heading 3
+  </h3>
+  <h4
+    className="sc-AxjAm fckzqF"
+    color="primary"
+    fontWeight="normal"
+    scale="minor-third"
+    size={4}
+  >
+    This is a Heading 4
+  </h4>
+  <h5
+    className="sc-AxjAm bizoWe"
+    color="primary"
+    fontWeight="normal"
+    scale="minor-third"
+    size={5}
+  >
+    This is a Heading 5
+  </h5>
+  <h6
+    className="sc-AxjAm cOBqWU"
+    color="primary"
+    fontWeight="normal"
+    scale="minor-third"
+    size={6}
+  >
+    This is a Heading 6
+  </h6>
+  <p
+    className="sc-AxjAm iVJURw"
+    color="primary"
+    fontWeight="normal"
+    scale="minor-third"
+    size={7}
+  >
+    This is a Parragraph
+  </p>
+  <span
+    className="sc-AxjAm hqyXjV"
+    color="primary"
+    fontWeight="normal"
+    scale="minor-third"
+    size={8}
+  >
+    This is a Small
+  </span>
+</div>
+`;
+
+exports[`Storyshots Text Perfect Fifth Scale 1`] = `
+<div>
+  <h1
+    className="sc-AxjAm BvchG"
+    color="primary"
+    fontWeight="normal"
+    scale="perfect-fifth"
+    size={1}
+  >
+    This is a Heading 1
+  </h1>
+  <h2
+    className="sc-AxjAm hdRUZy"
+    color="primary"
+    fontWeight="normal"
+    scale="perfect-fifth"
+    size={2}
+  >
+    This is a Heading 2
+  </h2>
+  <h3
+    className="sc-AxjAm hnJrA-D"
+    color="primary"
+    fontWeight="normal"
+    scale="perfect-fifth"
+    size={3}
+  >
+    This is a Heading 3
+  </h3>
+  <h4
+    className="sc-AxjAm SSaFF"
+    color="primary"
+    fontWeight="normal"
+    scale="perfect-fifth"
+    size={4}
+  >
+    This is a Heading 4
+  </h4>
+  <h5
+    className="sc-AxjAm gcOpUv"
+    color="primary"
+    fontWeight="normal"
+    scale="perfect-fifth"
+    size={5}
+  >
+    This is a Heading 5
+  </h5>
+  <h6
+    className="sc-AxjAm hjkUeA"
+    color="primary"
+    fontWeight="normal"
+    scale="perfect-fifth"
+    size={6}
+  >
+    This is a Heading 6
+  </h6>
+  <p
+    className="sc-AxjAm ireHLH"
+    color="primary"
+    fontWeight="normal"
+    scale="perfect-fifth"
+    size={7}
+  >
+    This is a Parragraph
+  </p>
+  <span
+    className="sc-AxjAm fmlNZi"
+    color="primary"
+    fontWeight="normal"
+    scale="perfect-fifth"
+    size={8}
+  >
+    This is a Small
+  </span>
+</div>
+`;
+
+exports[`Storyshots Text Perfect Fourth Scale 1`] = `
+<div>
+  <h1
+    className="sc-AxjAm ePOcNQ"
+    color="primary"
+    fontWeight="normal"
+    scale="perfect-fourth"
+    size={1}
+  >
+    This is a Heading 1
+  </h1>
+  <h2
+    className="sc-AxjAm ejOFBT"
+    color="primary"
+    fontWeight="normal"
+    scale="perfect-fourth"
+    size={2}
+  >
+    This is a Heading 2
+  </h2>
+  <h3
+    className="sc-AxjAm IyxLD"
+    color="primary"
+    fontWeight="normal"
+    scale="perfect-fourth"
+    size={3}
+  >
+    This is a Heading 3
+  </h3>
+  <h4
+    className="sc-AxjAm btLJxo"
+    color="primary"
+    fontWeight="normal"
+    scale="perfect-fourth"
+    size={4}
+  >
+    This is a Heading 4
+  </h4>
+  <h5
+    className="sc-AxjAm lwTrP"
+    color="primary"
+    fontWeight="normal"
+    scale="perfect-fourth"
+    size={5}
+  >
+    This is a Heading 5
+  </h5>
+  <h6
+    className="sc-AxjAm eKHCBf"
+    color="primary"
+    fontWeight="normal"
+    scale="perfect-fourth"
+    size={6}
+  >
+    This is a Heading 6
+  </h6>
+  <p
+    className="sc-AxjAm SOwJx"
+    color="primary"
+    fontWeight="normal"
+    scale="perfect-fourth"
+    size={7}
+  >
+    This is a Parragraph
+  </p>
+  <span
+    className="sc-AxjAm LAXUk"
+    color="primary"
+    fontWeight="normal"
+    scale="perfect-fourth"
+    size={8}
+  >
+    This is a Small
+  </span>
+</div>
+`;

@@ -25,6 +25,8 @@ The complete list of components is the following:
 
 The listed components are thought to be flexible enough to many of my day-to-day use cases. I recommend checking out the storybook of the project since there are a lot of ways to use them.
 
+Storybook: [https://Platekun.github.io/bare-ui/](https://Platekun.github.io/bare-ui/)
+
 ## Inspiration and Thanks!
 
 This library is based on Swift UI and React Native.
