@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -75,5 +75,9 @@
     "react-image": "^4.0.3",
     "react-window": "^1.8.5",
     "styled-components": "^5.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Platekun/bare-ui"
   }
 }
