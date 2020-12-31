@@ -1,7 +1,7 @@
 export * from './List';
 export * from './Stack';
-export * from './Divider';
-export * from './Image';
-export * from './ScrollView';
-export * from './Spacer';
-export * from './Text';
+export { default as Divider } from './Divider';
+export { default as Image } from './Image';
+export { default as ScrollView } from './ScrollView';
+export { default as Spacer } from './Spacer';
+export { default as Text } from './Text';
