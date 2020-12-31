@@ -7,7 +7,7 @@ import Colr from 'colr';
 import customBreakpoints, { IResponsiveProp, ITransformResponsiveProps } from '../common/custom-breakpoints';
 import EMPTY_STRING from '../common/empty-string';
 import joinStrings from '../common/join-strings';
-import { IStylable } from 'common/styles';
+import { IStylable } from '../common/styles';
 import { ITheme, IFontWeight, ICommonFontWeight } from './theme';
 
 type IAlignment = 'inherit' | 'left' | 'center' | 'right' | 'justify';

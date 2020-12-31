@@ -5,3 +5,4 @@ export { default as Image } from './Image';
 export { default as ScrollView } from './ScrollView';
 export { default as Spacer } from './Spacer';
 export { default as Text } from './Text';
+export { default as Button } from './Button';
